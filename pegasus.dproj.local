@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/15 22:07:59.000.913,=C:\Users\ozenir.filho\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/25 03:50:25.000.537,=C:\Users\ozenir.filho\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/25 03:51:24.000.353,C:\Users\ozenir.filho\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\UmbrelaCorps\Fonte\U_principal.pas</Transaction>
+    <Transaction>2021/03/25 03:51:24.000.353,C:\Users\ozenir.filho\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\UmbrelaCorps\Fonte\U_principal.dfm</Transaction>
+    <Transaction>2021/03/25 03:51:41.000.633,C:\Users\ozenir.filho\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\UmbrelaCorps\pegasus.dproj</Transaction>
+    <Transaction>2021/03/25 04:15:16.000.519,=C:\UmbrelaCorps\Unit1.pas</Transaction>
+    <Transaction>2021/03/25 04:16:03.000.090,C:\UmbrelaCorps\Unit1.dfm=C:\UmbrelaCorps\Fonte\U_dm.dfm</Transaction>
+    <Transaction>2021/03/25 04:16:03.000.090,C:\UmbrelaCorps\Unit1.pas=C:\UmbrelaCorps\Fonte\U_dm.pas</Transaction>
+    <Transaction>2021/03/25 04:22:52.000.606,=C:\UmbrelaCorps\Unit2.pas</Transaction>
+    <Transaction>2021/03/25 04:53:13.000.898,C:\UmbrelaCorps\Unit2.dfm=C:\UmbrelaCorps\Fonte\U_cad_cliente.dfm</Transaction>
+    <Transaction>2021/03/25 04:53:13.000.898,C:\UmbrelaCorps\Unit2.pas=C:\UmbrelaCorps\Fonte\U_cad_cliente.pas</Transaction>
+    <Transaction>2021/03/25 05:48:17.000.145,=C:\UmbrelaCorps\Unit2.pas</Transaction>
+    <Transaction>2021/03/25 05:58:48.000.978,C:\UmbrelaCorps\Unit2.dfm=C:\UmbrelaCorps\Fonte\U_cad_cliente_juridico.dfm</Transaction>
+    <Transaction>2021/03/25 05:58:48.000.978,C:\UmbrelaCorps\Unit2.pas=C:\UmbrelaCorps\Fonte\U_cad_cliente_juridico.pas</Transaction>
+  </Transactions>
+</BorlandProject>
